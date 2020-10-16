@@ -58,6 +58,14 @@
   "imageBorder":6
   }
   ],
+  {
+  "layout":"sliderList",
+  "name":"Entertainment",
+  "type":"imageOnTheLeft",
+  "category":35454,
+  "imageBorder":6
+  }
+  ],
   "Setting":{
   "MainColor":"#951512",
   "ProductListLayout":"list",
