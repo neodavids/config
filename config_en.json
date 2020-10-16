@@ -29,10 +29,25 @@
   "layout":"bannerImage"
   },
   {
+  "VerticalLayout":{
+   
+    "layout":"card",
+     "name":"News",
+    "imageBorder":20
+    }
+  },
+  {
+    "category":298,
+    "layout":"sliderList",
+    "type":"imageOnTheLeft",
+    "name":"News on the hour ",
+    "imageBorder":20
+    },
+  {
   "category":247,
   "layout":"sliderList",
   "type":"imageOnTheLeft",
-  "name":"Top Stories",
+  "name":"Most Read",
   "imageBorder":20
   },
   {
@@ -113,10 +128,7 @@
   }
   ]
   },
-  "VerticalLayout":{
-  "name":"News on the Hour",
-  "layout":"card"
-  },
+ 
   "SplashScreen":{
   "data":"assets/images/splashscreen.png",
   "type":"animated"}
